@@ -1,2 +1,2 @@
 time1 = Time.new
-puts "Current Time : " + time1.inspect
+puts "Current date&time : " + time1.inspect
